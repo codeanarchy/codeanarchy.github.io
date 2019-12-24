@@ -1,2 +1,2 @@
-# codeanarchy
-Code Anarchy landing page
+# Code Anarchy
+Code Anarchy Landing Page
